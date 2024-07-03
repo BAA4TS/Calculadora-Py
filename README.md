@@ -1,6 +1,6 @@
 # Calculadora Py
 
-Esta es una calculadora básica implementada en Python utilizando Tkinter para la interfaz gráfica.
+Esta es una calculadora básica implementada en Python utilizando Tkinter y ttkbootstrap para la interfaz gráfica.
 
 ## Funcionalidades
 
@@ -12,10 +12,12 @@ Esta es una calculadora básica implementada en Python utilizando Tkinter para l
 
 - Python 3.x
 - Tkinter (`tkinter` debe estar instalado por defecto en la mayoría de las distribuciones de Python).
+- `ttkbootstrap 1.10`
 
 ## Ejecución
 
 Para ejecutar la calculadora, simplemente corre el script principal `main.py`:
 
-```bash
+```
 python main.py
+```
