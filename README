@@ -1,0 +1,21 @@
+# Calculadora Py
+
+Esta es una calculadora básica implementada en Python utilizando Tkinter para la interfaz gráfica.
+
+## Funcionalidades
+
+- Realiza operaciones básicas de suma, resta, multiplicación y división.
+- Permite borrar el último carácter o limpiar por completo la pantalla de operaciones.
+- Muestra la expresión actual y el resultado de las operaciones.
+
+## Requisitos
+
+- Python 3.x
+- Tkinter (`tkinter` debe estar instalado por defecto en la mayoría de las distribuciones de Python).
+
+## Ejecución
+
+Para ejecutar la calculadora, simplemente corre el script principal `main.py`:
+
+```bash
+python main.py
