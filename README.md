@@ -2,6 +2,8 @@
 
 Esta es una calculadora básica implementada en Python utilizando Tkinter y ttkbootstrap para la interfaz gráfica.
 
+![Imagen de la calculadora](src/cal.jpeg)
+
 ## Funcionalidades
 
 - Realiza operaciones básicas de suma, resta, multiplicación y división.
