@@ -14,7 +14,7 @@ Esta es una calculadora básica implementada en Python utilizando Tkinter y ttkb
 
 - Python 3.x
 - Tkinter (`tkinter` debe estar instalado por defecto en la mayoría de las distribuciones de Python).
-- `ttkbootstrap 1.10`
+- `ttkbootstrap`
 
 ## Ejecución
 
