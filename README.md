@@ -4,6 +4,10 @@ Esta es una calculadora básica implementada en Python utilizando Tkinter y ttkb
 
 ![Imagen de la calculadora](src/cal.jpeg)
 
+## Release 
+- Este Proyecto tiene una Release compilada para windows
+- Recomendacion si vas a usar la calculadora es mejor descargar el proyecyo y compilarlo por tu cuenta y no descargar la release porque no esta firmado ni nada `Salta antivirus`
+
 ## Funcionalidades
 
 - Realiza operaciones básicas de suma, resta, multiplicación y división.
